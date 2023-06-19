@@ -1,0 +1,30 @@
+body{
+    background-image: linear-gradient(to right, rgb(195, 56, 56),rgb(91, 91, 201),rgb(97, 220, 97));
+   
+}
+
+.heading{
+    text-align: center;
+    margin-top: 150px;
+    color:white;
+    
+}
+
+textarea{
+    margin-left: 350px;
+    margin-right: 200px;
+    border: 5px solid black;
+    box-shadow: 10px 10px 10px black;
+    font-weight: bolder;
+    font-size: x-large;
+    display:flex;
+    position: relative;
+}
+
+.wc{
+    text-align: center;
+    font-weight: bolder;
+    font-size: xx-large;
+    color: aliceblue;
+}
+
